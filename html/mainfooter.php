@@ -1,12 +1,12 @@
 <footer>
 	<div class="col-xs-12 nonepadding bg-footer">
-		<div class="container nonepadding">
+		<div class="container">
 			<div class="col-xs-12  row-eq-height nonepadding">
-				<div class="col-xs-4 col-footer nonepadding">
-					<div class="col-xs-offset-2 col-xs-10 footer-header nonepadding">
+				<div class="col-md-4 col-sm-4 col-xs-12 col-footer nonepadding">
+					<div class="col-xs-12 footer-header nonepadding">
 						<a href="#"><img src="../assets/img/logo_top.png" class="img-baseline"></a>
 					</div>
-					<div class="col-xs-12 footer-header-underline nonepadding">บริษัท รุ่งเรืองตลอดไป จำกัด</div>
+					<div class="col-xs-12  footer-header-underline nonepadding">บริษัท รุ่งเรืองตลอดไป จำกัด</div>
 					<div class="col-xs-12 nonepadding">
 						<div class="col-xs-1 nonepadding">
 							<img src="../assets/img/icon-phone.png" class="img-baseline icon-footer">
@@ -19,7 +19,7 @@
 						</div>	
 					</div>
 
-					<div class="col-xs-12 nonepadding">
+					<div class="col-xs-12  nonepadding">
 						<div class="col-xs-1 nonepadding">
 							<img src="../assets/img/icon-email.png" class="img-baseline icon-footer">
 						</div>
@@ -27,7 +27,7 @@
 							<a href="mailto:info@kawabook.com">info@kawabook.com</a>
 						</div>
 					</div>
-					<div class="col-xs-12 nonepadding">
+					<div class="col-xs-12  nonepadding">
 						<div class="col-xs-1 nonepadding">
 							<img src="../assets/img/icon-checkin.png" class="img-baseline icon-footer">
 						</div>
@@ -37,19 +37,19 @@
 						<div class="col-xs-offset-1 col-xs-11 nonepadding">74000</div>
 					</div>
 				</div>
-				<div class="col-xs-4 col-footer nonepadding">
-					<div class="col-xs-offset-2 col-xs-10 footer-header nonepadding">Quick link</div>
-					<div class="col-xs-offset-2 col-xs-10 footer-link active footer-header-underline nonepadding">
+				<div class="col-md-4 col-sm-4 col-xs-12 col-footer nonepadding">
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-header nonepadding">Quick link</div>
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-link active footer-header-underline nonepadding">
 						<i class="fa fa-angle-right icon-footer" aria-hidden="true"></i>  หนังสือ
 					</div>
-					<div class="col-xs-offset-2 col-xs-10 footer-link nonepadding">อนิเมชั่น</div>
-					<div class="col-xs-offset-2 col-xs-10 footer-link nonepadding">เว็บบอร์ด</div>
-					<div class="col-xs-offset-2 col-xs-10 footer-link nonepadding">คู่มือการใช้เว็บไซต์</div>
-					<div class="col-xs-offset-2 col-xs-10 footer-link nonepadding">เติมใบไม้</div>
-					<div class="col-xs-offset-2 col-xs-10 footer-link nonepadding">ข้อกำหนดเว็บไวต์</div>
-					<div class="col-xs-offset-2 col-xs-10 footer-link nonepadding">ติดต่อเรา</div>
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-link nonepadding">อนิเมชั่น</div>
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-link nonepadding">เว็บบอร์ด</div>
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-link nonepadding">คู่มือการใช้เว็บไซต์</div>
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-link nonepadding">เติมใบไม้</div>
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-link nonepadding">ข้อกำหนดเว็บไวต์</div>
+					<div class="col-md-offset-2 col-md-10 col-xs-12 footer-link nonepadding">ติดต่อเรา</div>
 				</div>
-				<div class="col-xs-4 col-footer nonepadding">
+				<div class="col-md-4 col-sm-4 col-xs-12 col-footer nonepadding">
 					<div class="col-xs-12 footer-header nonepadding">เริ่มต้นการเผยแพร่ผลงาน</div>
 					<div class="col-xs-12 footer-header-underline nonepadding">
 						เริ่มต้นเป็นนักเขียนออนไลน์ เขียนเรื่องราวประทับใจ 
@@ -62,14 +62,14 @@
 						ผลงานสู่สาธารณชน
 					</div>
 					<div class="col-xs-12 col-btn-footer nonepadding">
-						<button type="submit" class="btn-color">อ่านวิธีการใช้งานเว็บ</button>
+						<button type="submit" class="btn-gradient btn-padding">อ่านวิธีการใช้งานเว็บ</button>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div class="col-xs-12 nonepadding  last-footer">
-		<div class="container nonepadding">
+		<div class="container">
 			<div class="col-xs-12 nonepadding row-eq-height">
 				<div class="col-xs-12 col-md-6 col-sm-6 flex-row-left nonepadding">
 					Copyright 2017 kawebook.com

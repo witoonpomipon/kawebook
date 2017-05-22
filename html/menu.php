@@ -7,7 +7,7 @@
 </head>
 <body>
 <div class="menu-header row-eq-height">
-	<div class="container flex-row-center nonepadding">
+	<div class="container flex-row-center">
   		<div class="col-md-6 col-sm-6 col-xs-12 flex-row-left headermenu nonepadding">ยินดีต้อนรับเข้าสู่ kawebook.com อาณาจักรนักอ่าน และนักเขียน</div>
 		<div class="col-md-6 col-sm-6 col-xs-12 nonepadding menu-profile">
 			<ol class="breadcrumb nonepadding pull-right">
@@ -39,8 +39,8 @@
 		</div>
   	</div>
 </div>
-<nav class="navbar navbar-default row-eq-height nav-menu">
-  <div class="container row-center nonepadding">
+<nav class="navbar navbar-default nav-menu">
+  <div class="container row-center">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
