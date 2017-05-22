@@ -1,5 +1,6 @@
 <?php include('menu.php'); ?>
 
+<div>test</div>
 <!--BANNER-->
 <div class="col-xs-12 nonepadding bg-main">
 	<div class="container">
