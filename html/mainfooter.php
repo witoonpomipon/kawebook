@@ -4,7 +4,7 @@
 			<div class="col-xs-12  row-eq-height nonepadding">
 				<div class="col-md-4 col-sm-4 col-xs-12 col-footer nonepadding">
 					<div class="col-xs-12 footer-header nonepadding">
-						<a href="#"><img src="../assets/img/logo_top.png" class="img-baseline"></a>
+						<a href="#"><img src="../assets/img/logo_footer.png" class="img-baseline"></a>
 					</div>
 					<div class="col-xs-12  footer-header-underline nonepadding">บริษัท รุ่งเรืองตลอดไป จำกัด</div>
 					<div class="col-xs-12 nonepadding">
@@ -71,13 +71,13 @@
 	<div class="col-xs-12 nonepadding  last-footer">
 		<div class="container">
 			<div class="col-xs-12 nonepadding row-eq-height">
-				<div class="col-xs-12 col-md-6 col-sm-6 flex-row-left nonepadding">
+				<div class="col-xs-7col-md-6 col-sm-6 flex-row-left nonepadding">
 					Copyright 2017 kawebook.com
 				</div>
-				<div class="col-xs-12 col-md-6 col-sm-6 flex-row-right nonepadding">
+				<div class="col-xs-4 col-md-6 col-sm-6 flex-row-right nonepadding">
 					<a href="#"><img src="../assets/img/icon_facebook.png" class="img-baseline icon-footer"></a>
-					<a href="#"><img src="../assets/img/icon_twitter.png" class="img-baseline icon-footer"></a>
 					<a href="#"><img src="../assets/img/icon_google_plus.png" class="img-baseline icon-footer"></a>
+                    <a href="#"><img src="../assets/img/icon_twitter.png" class="img-baseline icon-footer"></a>
 				</div>
 			</div>
 		</div>
